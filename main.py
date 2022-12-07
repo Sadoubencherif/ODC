@@ -2,5 +2,9 @@ import abc
 
 
 print('hello les ODC')
-int  = 45;
-print (abc)
+print("test")
+import abc
+
+
+print('hello les ODC')
+print("test")
